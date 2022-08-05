@@ -2,5 +2,8 @@
   "name": "c-hooks",
   "version": "1.0.0",
   "main": "src/index.js",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
